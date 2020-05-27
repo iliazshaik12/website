@@ -1,0 +1,16 @@
+#html{
+    background-image: url(homeimg.jpg);
+}
+#eml{
+    size: 20px;
+}
+#btn1{
+    size: 50px;
+    margin-left: 10%;
+}
+#error{
+    background-color: springgreen;
+}
+#home{
+    background-image: url(logo.jpeg);
+}
