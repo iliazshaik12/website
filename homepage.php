@@ -10,16 +10,16 @@
     </div>
     <br>
     <div1 style="float:right">
-        <img src="/schoolimg.jpeg? img_id=%s" width=300 height=300 />
+        <img src="schoolimg.jpeg? img_id=%s" width=300 height=300 />
     </div1>
     <div2 style="float:right;">
-    <img src="/princi.jpeg? img_id=%s" width=300 height=300 />
+    <img src="princi.jpeg? img_id=%s" width=300 height=300 />
 </div2>
 <div4 style="float:right">
-<img src="/convo.jpeg? img_id=%s" width=300 height=300 />
+<img src="convo.jpeg? img_id=%s" width=300 height=300 />
 </div4>
 <div5 style="float:right">
-<img src="/cvno.jpeg? img_id=%s" width=300 height=300 />
+<img src="cvno.jpeg? img_id=%s" width=300 height=300 />
 </div5>
 <div6 style="float:right;width:300px;height:698px;border:4px solid orange;background-color:darkslategrey">
 <p1 style="color:cornsilk;font-weight:bold">To Proceed To Teachers Login Portal</p1>
@@ -74,13 +74,13 @@
 we wish all the students and parents stay home and stay safe and take care of their elders and siblings and protect themselves from this hazard</p9>
 </div6>
 <div7 style="float:right;">
-<img src="/crtf.jpeg? img_id=%s" width=300 height=300 />
+<img src="crtf.jpeg? img_id=%s" width=300 height=300 />
 </div7>
 <div8 style="float:right">
-<img src="/project.jpeg? img_id=%s" width=300 height=300 />
+<img src="project.jpeg? img_id=%s" width=300 height=300 />
 </div8>
 <div9 style="float:right;">
-    <img src="/castle.jpeg? img_id=%s" width=290 height=300 />
+    <img src="castle.jpeg? img_id=%s" width=290 height=300 />
 </div9>
     <body style="background-colour:cornsilk;">
     <div style="background-color:darkslategrey;border:4px solid skyblue;margin-right:80%;">
@@ -94,10 +94,10 @@ we wish all the students and parents stay home and stay safe and take care of th
         with Vijayawada Children schools and tutorials assoiation(VCS&TA) which includes mostly all the private schools in some divisions of vijayawada </p1>
         </div>
         <div11 style="float:right">
-        <img src="/games.jpeg? img_id=%s" width=440 height=400 />
+        <img src="games.jpeg? img_id=%s" width=440 height=400 />
 </div11>
 <div12 style="float:right">
-<img src="/doctr.jpeg? img_id=%s" width=450 height=400 />
+<img src="doctr.jpeg? img_id=%s" width=450 height=400 />
 </div12>
         <div style="background-color:darkslategrey;border:4px solid skyblue;margin-right:80%;height:460px">
         <h3 style="color:cornsilk">CONTACT US:</h3>
